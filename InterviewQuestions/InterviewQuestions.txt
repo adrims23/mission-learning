@@ -1,0 +1,90 @@
+Spring Boot
+-------------------------------------
+What is Eureka? How do you configure it?
+What is Hystrics ? How to configure based on threads ?
+How to throw Error from your application
+Where u have use Qualifier
+Diff between REST and SOAP
+
+MicroServices
+--------------------------------------
+Microservice A can’t talk to Microservice B . But Microservice B can talk to Microservice C . How to restrict microservice.
+Load Balancer
+Consule
+How to configure data dog.
+
+Java
+--------------------------------------
+What is semaphore?
+There are 1 lakh records available. How will you populate them?
+How will you implement comparator based on two fields?
+Remove duplicate numbers without using built in fuction?
+Synchronisation
+How will you take HeapDump? and how to analyze?
+
+DevOps
+--------------------------------------
+What is Jmeter ? How you calculate TPS in Jmeter?
+How were you deploying in PROD?
+What is Jenkins? How to configure a job in Jenkins?
+How to implement CI/CD pipilene
+Why there is a need of cloud.
+
+
+Designing
+---------------------------------------
+Implement snake ladder problem
+
+
+
+Project related questions
+--------------------------
+How does xml get validated in hotelbeds si plugin?
+
+
+
+
+MicroServices to be covered
+1. ConfigServer
+2. Actuator
+3. Application Gatewaay
+4. Hystrix / Resilience 4j/ CircuitBreaker
+5. Consul / Eureka
+6. Swagger
+7. Sleuth / Zipkin
+9. ELK
+10. DataDog - System / Application Monitoring
+
+-----------------------
+Clooud
+1. Azure 
+2. CI/ CD
+3. Jenkins
+4. Docker
+5. Kubernetes
+
+
+
+
+
+
+
+
+
+Things to do next
+-----------------------------------------------------------
+Spring Integration
+--------------------
+https://www.youtube.com/watch?v=z13ujlvIBM0
+https://github.com/TechPrimers/spring-integration-example-1
+-----------------------------------------------------------
+
+
+
+They have shared the below topics to get prepared for the interview… It might in-depth, please get prepared well.
+
+1.	Core Java (Collection, Multithreading, Java8 features etc…)
+2.	Spring MVC, AOP
+3.	JPA and integration with SpringBoot
+4.	Necessity and usage of SpringBoot in terms design/creation of RESTful APIs
+5.	Instrumentations surrounding Microservice Phenomenon like Configuration Externalization, Logging Principles, Circuit Breaking, Containerizing etc.…

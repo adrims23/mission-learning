@@ -1,0 +1,45 @@
+Tools Used
+-----------Frameworks and Libraries --------
+java 8,
+spring boot 2,
+spring cloud - 
+open-feign 
+mapstruct, 
+lombok
+log4j
+Springfox - swagger
+Datadog metrics
+
+--Testing --
+junits
+jmockit,
+Mockito 
+wiremock,
+
+--Build management----
+Maven 
+
+--Static Analyzer--
+
+SONAR
+
+-- SCM----
+Git
+Bit-Bucket
+
+-- Perfromance Tests---
+JMeter
+VisualVM
+
+--- Service Registry -------------
+consul
+----  CI/CD--------
+jenkins
+rundeck
+
+-- Monitoring Tools ----------
+kibana
+datadog
+
+-- Dev and test tools -------
+IntelliJ, Eclipse, Putty, Postman
